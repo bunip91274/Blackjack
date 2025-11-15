@@ -71,6 +71,8 @@ money = int(input("Enter the amount of money you're bringing: "))
 while money >= 5:
     playerscore = 0
     dealerscore = 0
+    acecount = 0
+    dealeracecount = 0
 # reload deck if less than 20 cards left
     if len(allcards) < 20:
         for i in range(16):
