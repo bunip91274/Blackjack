@@ -52,7 +52,8 @@ This program features full game logic, betting, dealer behaviour, and a .txt dec
 
 # Example Rounds
 ![Example round 1](Screenshot%202025-11-15%20134214.png)
-
+*Example round 1*
 ![Example round 2](Screenshot%202025-11-15%20134254.png)
-
+*Example round 2*
 ![Example round 3](Screenshot%202025-11-15%20134450.png)
+*Example round 3*
