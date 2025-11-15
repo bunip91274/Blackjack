@@ -12,7 +12,7 @@ This program features full game logic, betting, dealer behaviour, and a .txt dec
 
 -Automatic bust detection
 
--Dealer hits until 17 or higher
+- Dealer hits until 17 or higher
 
 -Tie results in a house win (project rules)
 
